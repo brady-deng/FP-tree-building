@@ -1,5 +1,5 @@
 import ex3
-#8-22 GIT练习
+
 simpdat = ex3.loadSimpDat()
 print(simpdat)
 initset = ex3.createInitSet(simpdat)
